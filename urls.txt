@@ -1,0 +1,5 @@
+video-ak.cdn.spotify.com.splitter-eip.akadns.net
+video-fa.scdn.co
+video-fa.cdn.spotify.com
+video-fa-b.cdn.spotify.com
+video4-ak.spotify.com
