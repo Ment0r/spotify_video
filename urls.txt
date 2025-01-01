@@ -3,3 +3,5 @@ video-fa.scdn.co
 video-fa.cdn.spotify.com
 video-fa-b.cdn.spotify.com
 video4-ak.spotify.com
+www.test.de
+test.de
